@@ -80,15 +80,15 @@ p {
 .copyright p {
     color: #666666;
     font-size: 14px;
+    margin: 0;
 }
 
 .footer__menu {
     display: flex;
+    margin: 0;
 }
 .footer__menu li {
     padding: 0 14px;
-}
-.footer__menu li {
     color: #666666;
     font-size: 13px;
     text-transform: capitalize;

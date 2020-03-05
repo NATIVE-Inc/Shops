@@ -1,5 +1,6 @@
 import React from 'react';
 import './navbar.css';
+import { NavLink } from 'react-router-dom';
 
 function Navbar() {
     return (
@@ -10,8 +11,11 @@ function Navbar() {
                     <div className="col-md-8 col-lg-8 col-sm-6 col-xs-6">
                         <nav className="mainmenu__nav hidden-xs hidden-sm">
                             <ul className="main__menu">
-                                <li>Home</li>
-                                <li>About</li>
+                                <li><NavLink to="/">Home</NavLink>
+                                </li>
+                                <li>
+                                    <NavLink to="/filtered">Filter</NavLink>
+                                </li>
                                 <li>About</li>
                                 <li>Shop</li>
                                 <li>pages</li>
