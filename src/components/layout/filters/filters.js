@@ -133,14 +133,8 @@ function Filters() {
                                                         <img src={require('../../assets/images/product/1.png')} alt="product images" />
                                                     </a>
                                                 </div>
-                                                <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                <div class="product__hover__info">
+                                                    <div className='view_more_btn'>View</div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -155,7 +149,7 @@ function Filters() {
                                     {/* <!-- End Single Product -->
                                     <!-- Start Single Product --> */}
                                     <div className="col-md-3 col-lg-4 col-sm-4 col-xs-12">
-                                        <div className="product">
+                                        <div className="product"> 
                                             <div className="product__inner">
                                                 <div className="pro__thumb">
                                                     <a href="www.google.com">
@@ -163,13 +157,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -192,13 +182,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -221,13 +207,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -250,13 +232,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -279,13 +257,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -308,13 +282,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -337,13 +307,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -366,13 +332,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -395,13 +357,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -424,13 +382,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">
@@ -453,13 +407,9 @@ function Filters() {
                                                     </a>
                                                 </div>
                                                 <div className="product__hover__info">
-                                                    <ul className="product__action">
-                                                        <li><a data-toggle="modal" data-target="#productModal" title="Quick View" className="quick-view modal-view detail-link" href="www.google.com"><span className="ti-plus"></span></a></li>
-                                                        <li><a title="Add To Cart" href="cart.html"><span className="ti-shopping-cart"></span></a></li>
-                                                    </ul>
-                                                </div>
-                                                <div className="add__to__wishlist">
-                                                    <a data-toggle="tooltip" title="" className="add-to-cart" href="wishlist.html" data-original-title="Add To Wishlist"><span className="ti-heart"></span></a>
+                                                    <div class="product__hover__info">
+                                                        <div className='view_more_btn'>View</div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div className="product__details">

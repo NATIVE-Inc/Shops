@@ -10,18 +10,22 @@
 - Livraison dispo
 
 ### Hashtags: 
-    - English 
+    - Disclaimer
+        Nous avons partager votre post sure @obilifashion. Merci de partager notre post 
 
     - French
-        #mocassins #hommes #femmes 
-        #vetements #cameroun #obili #yaounde #douala #boutique #chaussures #chemises #obilifashion #obili #livraison
+        #mocassins #hommes #femmes #babouches #sacs #vetements #cameroun #yaounde #douala #boutique #chaussures #chemises #obilifashion #livraison #shirt #costume
 
     - Popular
         #ecommerce #marketing #business #entrepreneur #digitalmarketing #onlineshopping #fashion #ecommercebusiness #webdesign #website #amazon #b #startup #seo #onlinebusiness #branding #o #online #shopify #smallbusiness #dropshipping #onlinestore #onlineshop #shopping #wordpress #design #socialmedia #amazonfba #web #bhfyp
 
         #digital #instagram #magento #socialmediamarketing #onlinemarketing #ecommercewebsite #bhfyp #entrepreneurship #webdevelopment #ecommercetips #amazonseller #photography #technology #moda #retail #advertising #style #websitedesign #love #motivation #like #sales #marketplace #graphicdesign #shoponline #ebay #ecom #affiliatemarketing #india #woocommerce
+    - Habilles 
+         #robes #ensembles #vetements #cameroun #yaounde #douala #boutique #chaussures #chemises #obilifashion #livraison #shirt #costume
 
     - Chaussures 
+        #timbaland #mocassins #hommes #femmes #babouches #sacs #vetements #cameroun #yaounde #douala #boutique #chaussures #chemises #obilifashion #livraison #shirt #costume
+
         #Abarka #Adilette #Avarca #Babies #Babouche #Balgha #Ballerine #Botte #Botte  #Bottes #Bottine #Brodequin #Brogue #Caligae #Charentaise #Chausson #Chaussure #Chaussure #semelles #compensées #Chaussure #Chaussure #Chaussure #Claquettes #Cothurne #Creepers #Cuissarpaire #Découpé #Demi-pointes #Derby #Double #Boucle #Danseur #Escarpin #Espadrille #Geta #Ghillie #H #Huaraches #Mules #Mocassin #Monk #Montage #Mule #Okobo  #paire  #Paduka #Pantoufle #Pataugas #Pointes #Pointinini #Poulaine #Rangers #Richelieu #Sabot #Salomé #Sandale #Sandales #Santiag #Soulier #Talon #Tabi #Tong #U #Ugg #Waraji #Zōri
 
     - Villes 
